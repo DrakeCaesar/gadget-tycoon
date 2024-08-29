@@ -1,0 +1,9 @@
+binkw32.dll
+CrazyFactoryServer.exe
+reshade-shaders
+DATA
+*.exe
+*.dll
+*.ico
+*.ini
+*.log
